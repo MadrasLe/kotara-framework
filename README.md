@@ -5,6 +5,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-brightgreen.svg)](https://www.python.org/)
+![lang](https://img.shields.io/badge/lang-PT--BR-green?style=flat&logo=google-translate)
 
 
 > Um framework de fusão adaptativa para combinar dois modelos de linguagem causal (LLMs) e avaliar a perplexidade (PPL) resultante.
