@@ -70,6 +70,8 @@ source .venv/bin/activate  # No Windows: .venv\Scripts\activate
 # 3. Instale as dependências
 pip install -r requirements.txt
 
+```
+
  Como Usar
 O framework é operado via linha de comando. Você precisará de dois modelos (locais ou do Hugging Face Hub) e um arquivo de texto (.txt) para avaliação.
 
