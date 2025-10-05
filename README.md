@@ -87,7 +87,7 @@ python kotara.py \
     --strategy "average" \
     --save_metrics "resultados_average.json"
 
-```bash
+```
 
 python kotara.py \
     --model_a "/path/to/your/local_model_A" \
@@ -101,7 +101,7 @@ python kotara.py \
     --stride 1024 \
     --save_metrics "resultados_entropy.json"
 
-```bash
+```
 
 
 
