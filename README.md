@@ -27,7 +27,7 @@
 
 ---
 
-## ✨ Sobre o Projeto
+## Sobre o Projeto
 
 O Kotara nasce da visão de poder fundir múltiplos modelos de linguagem em uma única entidade coesa, capaz de aprimorar o desempenho em tarefas downstream. A abordagem principal é um framework modular que opera através da **fusão de logits em tempo real**, sem a necessidade de modificar ou mesclar os pesos dos modelos, tornando o processo leve e flexível.
 
@@ -97,6 +97,10 @@ python kotara.py \
     --max_length 2048 \
     --stride 1024 \
     --save_metrics "resultados_entropy.json"
+
+base
+
+
 
 Após a execução, um relatório será impresso no console e as métricas detalhadas serão salvas no arquivo JSON especificado.
 
