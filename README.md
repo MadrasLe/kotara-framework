@@ -89,6 +89,8 @@ python kotara.py \
 
 ```
 
+```bash
+
 python kotara.py \
     --model_a "/path/to/your/local_model_A" \
     --model_b "EleutherAI/gpt-neo-125M" \
